@@ -1,6 +1,7 @@
 rs
 ==
-A Simple RESTful framework
+A Simple RESTful framework  
+[![Build Status](https://travis-ci.org/gaohao/rs.png?branch=master,staging,production)](http://travis-ci.org/gaohao/rs)  
 
 How to use:  
 import rs  
